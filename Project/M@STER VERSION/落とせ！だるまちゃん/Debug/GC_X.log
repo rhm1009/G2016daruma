@@ -1,0 +1,71 @@
+﻿  Master.CPP
+  Dx-Lib.CPP
+  Ci-Lib.CPP
+  GameTitle.cpp
+  GameScene.cpp
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(174): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(265): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(270): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(372): warning C4244: '-=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(378): warning C4244: '+=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(410): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(412): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(418): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(420): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(425): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(427): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(430): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(432): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(571): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(581): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(684): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(706): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(708): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(934): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(948): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(957): warning C4244: '-=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(968): warning C4244: '+=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(974): warning C4244: '-=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(975): warning C4244: '-=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(976): warning C4244: '+=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamescene.cpp(977): warning C4244: '+=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+  GameMain.cpp
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(69): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'DarumaState' の左辺を無視します。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(76): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'KemuriState' の左辺を無視します。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(264): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(266): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(945): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(947): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1133): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1149): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1149): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1154): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1154): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1169): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1169): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1184): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1184): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1186): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1192): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1192): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1194): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1250): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1250): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1252): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1257): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1257): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1259): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1304): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1304): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1315): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1315): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1320): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1320): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1330): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1330): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1332): warning C4244: '引数': 'float' から 'short' への変換です。データが失われる可能性があります。
+c:\users\cr\desktop\0909 title\落とせ！だるまちゃん\src\gamemain.cpp(1332): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  DataTbl.cpp
+  コードを生成中...
+DataTbl.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+  GC_X.vcxproj -> C:\Users\CR\Desktop\0909 Title\落とせ！だるまちゃん\Debug\GC_X.exe
